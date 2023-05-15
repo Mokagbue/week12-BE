@@ -1,0 +1,44 @@
+{
+    "characters":[
+        {
+            "id": 1,
+            "name": "Harry Socks",
+            "class": "wizard",
+            "health": 4,
+            "weapon": "fire ball",
+            "damage": 8,
+            "armor": 2,
+            "stealth": 2,
+            "powerup": "cheese",
+            "weakness": "closets",
+            "stats": [{"charisma": 4, "dexterity": 4, "strength": 2, "intelligence": 8}]
+        },
+        {
+            "id": 2,
+            "name": "Miranda Husk",
+            "class": "rogue",
+            "health": 6,
+            "weapon": "dagger",
+            "damage": 4,
+            "armor": 4,
+            "stealth": 3,
+            "powerup": "smell of blood",
+            "weakness": "pickles",
+            "stats": [{"charisma": 8, "dexterity": 6, "strength": 4, "intelligence": 6}]
+        },
+        {
+            "id": 3,
+            "name": "Victoria Van Banderwelt",
+            "class": "fighter",
+            "health": 7,
+            "weapon": "claymore",
+            "damage": 6,
+            "armor": 8,
+            "stealth": 1,
+            "powerup": "getting hurt",
+            "weakness": "bees",
+            "stats": [{"charisma": 4, "dexterity": 4, "strength": 8, "intelligence": 4}]
+        }
+
+    ]
+}
