@@ -2,6 +2,9 @@
   "name": "week12-BE",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "repository": "https://github.com/Mokagbue/week12-BE.git",
   "author": "Michelle Okagbue <umbralcompendium@gmail.com>",
   "license": "MIT",
