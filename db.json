@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Harry Socks",
-            "class": "wizard",
+            "role": "wizard",
             "health": 4,
             "weapon": "fire ball",
             "damage": 8,
@@ -17,7 +17,7 @@
         {
             "id": 2,
             "name": "Miranda Husk",
-            "class": "rogue",
+            "role": "rogue",
             "health": 6,
             "weapon": "dagger",
             "damage": 4,
@@ -31,7 +31,7 @@
         {
             "id": 3,
             "name": "Victoria Van Banderwelt",
-            "class": "fighter",
+            "role": "fighter",
             "health": 7,
             "weapon": "claymore",
             "damage": 6,
