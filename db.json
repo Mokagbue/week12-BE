@@ -6,14 +6,10 @@
             "role": "wizard",
             "health": 4,
             "weapon": "fire ball",
-            "damage": 8,
-            "armor": 2,
-            "stealth": 2,
             "powerup": "cheese",
             "weakness": "closets",
-            "stats": {"charisma": 4, "dexterity": 4, "strength": 2, "intelligence": 8},
             "picture":"https://i.imgur.com/W2058Pr.png",
-            "rollStat":[6,3,8]
+            "rollStat":{"strength": 5, "defense":10,"charm":15, "stealth":10}
         },
         {
             "id": 2,
@@ -21,14 +17,10 @@
             "role": "rogue",
             "health": 6,
             "weapon": "dagger",
-            "damage": 4,
-            "armor": 4,
-            "stealth": 3,
             "powerup": "the smell of blood",
             "weakness": "pickles",
-            "stats": {"charisma": 8, "dexterity": 6, "strength": 4, "intelligence": 6},
             "picture":"https://i.imgur.com/25MiKZy.png",
-            "rollStat":[16,7,10]
+            "rollStat":{"strength": 10, "defense":15, "charm":5, "stealth":15}
         },
         {
             "id": 3,
@@ -36,14 +28,10 @@
             "role": "fighter",
             "health": 7,
             "weapon": "claymore",
-            "damage": 6,
-            "armor": 8,
-            "stealth": 1,
             "powerup": "winning",
             "weakness": "bees",
-            "stats": {"charisma": 4, "dexterity": 4, "strength": 8, "intelligence": 4},
             "picture": "https://i.imgur.com/jbVIrpI.png",
-            "rollStat":[7,13,9]
+            "rollStat": {"strength": 15, "defense":5, "charm":10, "stealth": 5}
         }
 
     ]
