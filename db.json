@@ -12,7 +12,8 @@
             "powerup": "cheese",
             "weakness": "closets",
             "stats": {"charisma": 4, "dexterity": 4, "strength": 2, "intelligence": 8},
-            "picture":"https://i.imgur.com/W2058Pr.png"
+            "picture":"https://i.imgur.com/W2058Pr.png",
+            "rollStat":[6,3,8]
         },
         {
             "id": 2,
@@ -26,7 +27,8 @@
             "powerup": "the smell of blood",
             "weakness": "pickles",
             "stats": {"charisma": 8, "dexterity": 6, "strength": 4, "intelligence": 6},
-            "picture":"https://i.imgur.com/25MiKZy.png"
+            "picture":"https://i.imgur.com/25MiKZy.png",
+            "rollStat":[16,7,10]
         },
         {
             "id": 3,
@@ -40,7 +42,8 @@
             "powerup": "winning",
             "weakness": "bees",
             "stats": {"charisma": 4, "dexterity": 4, "strength": 8, "intelligence": 4},
-            "picture": "https://i.imgur.com/jbVIrpI.png"
+            "picture": "https://i.imgur.com/jbVIrpI.png",
+            "rollStat":[7,13,9]
         }
 
     ]
